@@ -1,6 +1,6 @@
 ### 🚀 Beginner Web Developer | Exploring HTML, CSS, and MERN Stack
 
-Hi! I’m Aalim, just starting out in the world of web development. I’m learning the basics of HTML and CSS and currently diving into Bootstrap to build responsive designs. I’m also exploring the MERN stack to get a grasp of full-stack development.
+🌐 Learning MERN Stack (HTML, CSS, Bootstrap) | Passionate about building web apps and growing my coding skills 🚀
 
 ### 🌟 Current Focus:
 🎨 **HTML & CSS:** Mastering the essentials of web design.  

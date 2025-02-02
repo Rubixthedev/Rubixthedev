@@ -1,25 +1,23 @@
-### 🚀 Beginner Web Developer | Exploring HTML, CSS, JavaScript, Git, and MERN Stack
+### 🚀 Web Developer | Exploring React, Tailwind, and Full-Stack Projects
 
-🌐 Learning MERN Stack (HTML, CSS, JavaScript, Git, Bootstrap) | Passionate about building web apps and growing my coding skills 🚀
+🌐 Passionate about building dynamic web applications and growing my coding skills 🚀
 
 ### 🌟 Current Focus:
-🎨 **HTML & CSS:** Mastering the essentials of web design.  
-🖌️ **Bootstrap:** Creating responsive, sleek layouts.  
-🔧 **JavaScript:** Adding interactivity and dynamic features to web projects.  
-💻 **Git:** Tracking changes and collaborating effectively on projects.  
-🛠️ **MERN Stack:** Diving into MongoDB, Express.js, React, and Node.js.
+🗄️ **MongoDB:** Understanding and implementing NoSQL database solutions.  
+⚛️ **React:** Creating interactive and dynamic user interfaces.  
+🎨 **Tailwind CSS:** Building sleek, responsive designs with utility-first styling.  
+🏗️ **Projects:** Applying my skills through hands-on full-stack project development.
 
 ### 📚 Learning Goals:
-🛠️ Building a strong foundation in web development.  
-⚙️ Enhancing JavaScript skills for dynamic sites.  
-🚀 Advancing with front-end frameworks like Bootstrap.  
-🔍 Exploring back-end concepts with the MERN stack.  
+🛠️ Strengthening back-end development skills with MongoDB.  
+⚙️ Mastering component-based development with React.  
+🚀 Designing modern and responsive UIs with Tailwind CSS.  
+🏗️ Building full-stack projects to apply concepts and best practices.  
 💾 Leveraging Git for version control and collaborative workflows.  
-🏗️ Developing small projects to apply skills.  
 🌐 Engaging with the developer community for growth.  
-📈 Learning best practices for coding, version control, and deployment.
+📈 Learning best practices for coding, deployment, and scalability.
 
-Feel free to explore my repositories and connect. I’m excited to learn, collaborate, and grow as a web developer! 🌱
+Feel free to explore my repositories and connect. I’m excited to continue learning, collaborating, and growing as a web developer! 🌱
 
 ### 🌐 Connect with Me:
 
@@ -33,3 +31,6 @@ Feel free to explore my repositories and connect. I’m excited to learn, collab
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
